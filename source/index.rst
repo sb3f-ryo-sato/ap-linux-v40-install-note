@@ -10,7 +10,7 @@ Audiophile Linux v4.0 インストールメモ
    :maxdepth: 2
    :caption: Contents:
 
-   ap-linux_v40_インストールメモ
+   ap-linux-v40-install-note
 
 
 
